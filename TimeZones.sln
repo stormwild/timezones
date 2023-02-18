@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0F506B15-3C1C-42A9-AF30-5625336D6D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZones.Api", "src\api\TimeZones.Api.csproj", "{8F3CEB1B-5806-447C-9C79-D3B0FBEFC0A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F3CEB1B-5806-447C-9C79-D3B0FBEFC0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3CEB1B-5806-447C-9C79-D3B0FBEFC0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3CEB1B-5806-447C-9C79-D3B0FBEFC0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3CEB1B-5806-447C-9C79-D3B0FBEFC0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8F3CEB1B-5806-447C-9C79-D3B0FBEFC0A2} = {0F506B15-3C1C-42A9-AF30-5625336D6D7C}
+	EndGlobalSection
+EndGlobal
